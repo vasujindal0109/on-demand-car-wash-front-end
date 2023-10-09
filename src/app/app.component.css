@@ -1,0 +1,39 @@
+button {
+    margin-right: 5px;
+    font-family: 'Quicksand', sans-serif;
+    /* color: white; */
+    background-color:#FCFFB2;
+}
+.navbar{
+    background-color: rgb(27, 20, 12);
+    height: 3rem;
+}
+
+
+.footer {
+    position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     color: black;
+     text-align: center;
+     background-color:#B6E388;
+    }
+
+.txt{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* .color{
+    background-color: #A7727D;
+} */
+.color{
+    background:#B6E388;
+    height:60px;
+}
+/* .color{
+    background:linear-gradient(rgb(0,217,255),white)#FCFFB2;
+    height:60px;
+} */
+/* #313330 */
